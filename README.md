@@ -1,3 +1,3 @@
 # Web-Dev-Practice
-Practice for DOM manipulation
-Learning Git
+	Practice for DOM manipulation
+	Learning Git
